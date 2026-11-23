@@ -35,10 +35,22 @@ I work at the intersection of data, technology, and business. I enjoy turning ra
 
 ## 🔗 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivambaliyan7455"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/shivambaliyan-sudo"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:shivam.baliyan.2024@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivambaliyan7455" title="Connect with me on LinkedIn">
+    <img src="./assets/technology-icons/linkedin.svg" width="48" height="48" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/shivambaliyan-sudo" title="Visit my GitHub profile">
+    <img src="./assets/technology-icons/github.svg" width="48" height="48" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shivam.baliyan.2024@gmail.com" title="Send me an email">
+    <img src="./assets/technology-icons/gmail.svg" width="48" height="48" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>LinkedIn</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>GitHub</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Email</sub>
 </p>
 
 ## 🧰 Technology stack
