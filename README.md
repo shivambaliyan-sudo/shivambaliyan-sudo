@@ -61,8 +61,8 @@ Currently, I'm expanding my skills in Python, automation, and Artificial Intelli
 
 I'm always interested in learning, collaborating and connecting with people passionate about technology, data and innovation.
 
-- LinkedIn: [Add your LinkedIn URL]
-- GitHub: [Add your GitHub profile URL]
+- LinkedIn: https://www.linkedin.com/in/shivambaliyan7455
+- GitHub: https://www.github.com/shivambaliyan-sudo
 
 ---
 
