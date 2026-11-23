@@ -54,35 +54,35 @@ I work at the intersection of data, technology, and business. I enjoy turning ra
 ### Programming, Data & Developer Tools
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code" /></a>
+  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="48" alt="Jupyter" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a>
 </p>
 
 ### Business Intelligence & Analytics
 
 <p align="left">
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Microsoft Power BI" /></a>
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Microsoft Excel" /></a>
-  <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" /></a>
-  <a href="https://www.microsoft.com/microsoft-fabric"><img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric" /></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" /></a>
+  <a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" /></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel" /></a>
+  <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="Microsoft PowerPoint" /></a>
+  <a href="https://www.microsoft.com/microsoft-fabric"><img src="https://cdn.simpleicons.org/microsoftfabric/6B4EFF" width="48" height="48" alt="Microsoft Fabric" /></a>
 </p>
 
 ### Collaboration, Monitoring & Productivity
 
 <p align="left">
-  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></a>
-  <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" /></a>
-  <a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" /></a>
+  <a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" alt="Confluence" /></a>
+  <a href="https://www.zabbix.com/"><img src="https://cdn.simpleicons.org/zabbix/D40000" width="48" height="48" alt="Zabbix" /></a>
+  <a href="https://leetcode.com/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode" /></a>
 </p>
 
 ## 🚀 Featured projects
