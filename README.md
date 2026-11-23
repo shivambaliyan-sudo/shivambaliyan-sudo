@@ -45,104 +45,42 @@ I work at the intersection of data, technology, and business. I enjoy turning ra
 
 ### Analytics & BI
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://powerbi.microsoft.com/"><img src="./assets/technology-icons/powerbi.svg" width="48" height="48" alt="Power BI" /></a><br />
-      <sub>Power BI</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.tableau.com/"><img src="./assets/technology-icons/tableau.svg" width="48" height="48" alt="Tableau" /></a><br />
-      <sub>Tableau</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.microsoft.com/microsoft-365/excel"><img src="./assets/technology-icons/excel.svg" width="48" height="48" alt="Microsoft Excel" /></a><br />
-      <sub>Excel</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="./assets/technology-icons/powerpoint.svg" width="48" height="48" alt="Microsoft PowerPoint" /></a><br />
-      <sub>PowerPoint</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.microsoft.com/microsoft-fabric"><img src="./assets/technology-icons/fabric.svg" width="48" height="48" alt="Microsoft Fabric" /></a><br />
-      <sub>Microsoft Fabric</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="./assets/technology-icons/powerbi.svg" width="48" height="48" alt="Power BI" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" title="Tableau"><img src="./assets/technology-icons/tableau.svg" width="48" height="48" alt="Tableau" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel"><img src="./assets/technology-icons/excel.svg" width="48" height="48" alt="Microsoft Excel" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/powerpoint" title="Microsoft PowerPoint"><img src="./assets/technology-icons/powerpoint.svg" width="48" height="48" alt="Microsoft PowerPoint" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-fabric" title="Microsoft Fabric"><img src="./assets/technology-icons/fabric.svg" width="48" height="48" alt="Microsoft Fabric" /></a>
+</p>
 
-<p><strong>Core skills:</strong> SQL · DAX · Power Query · Data Modeling · Data Visualization</p>
+<p align="center"><strong>Core skills:</strong> SQL · DAX · Power Query · Data Modeling · Data Visualization</p>
 
 ### Programming, Data & Developer Tools
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://www.python.org/"><img src="./assets/technology-icons/python.svg" width="48" height="48" alt="Python" /></a><br />
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.mysql.com/"><img src="./assets/technology-icons/mysql.svg" width="48" height="48" alt="MySQL" /></a><br />
-      <sub>MySQL</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.postgresql.org/"><img src="./assets/technology-icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a><br />
-      <sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.linux.org/"><img src="./assets/technology-icons/linux.svg" width="48" height="48" alt="Linux" /></a><br />
-      <sub>Linux</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://git-scm.com/"><img src="./assets/technology-icons/git.svg" width="48" height="48" alt="Git" /></a><br />
-      <sub>Git</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://github.com/"><img src="./assets/technology-icons/github.svg" width="48" height="48" alt="GitHub" /></a><br />
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://code.visualstudio.com/"><img src="./assets/technology-icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" /></a><br />
-      <sub>VS Code</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://jupyter.org/"><img src="./assets/technology-icons/jupyter.svg" width="48" height="48" alt="Jupyter" /></a><br />
-      <sub>Jupyter</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.docker.com/"><img src="./assets/technology-icons/docker.svg" width="48" height="48" alt="Docker" /></a><br />
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.postman.com/"><img src="./assets/technology-icons/postman.svg" width="48" height="48" alt="Postman" /></a><br />
-      <sub>Postman</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.python.org/" title="Python"><img src="./assets/technology-icons/python.svg" width="48" height="48" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" title="MySQL"><img src="./assets/technology-icons/mysql.svg" width="48" height="48" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./assets/technology-icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" title="Linux"><img src="./assets/technology-icons/linux.svg" width="48" height="48" alt="Linux" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="./assets/technology-icons/git.svg" width="48" height="48" alt="Git" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/" title="GitHub"><img src="./assets/technology-icons/github.svg" width="48" height="48" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./assets/technology-icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://jupyter.org/" title="Jupyter"><img src="./assets/technology-icons/jupyter.svg" width="48" height="48" alt="Jupyter" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" title="Docker"><img src="./assets/technology-icons/docker.svg" width="48" height="48" alt="Docker" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" title="Postman"><img src="./assets/technology-icons/postman.svg" width="48" height="48" alt="Postman" /></a>
+</p>
 
 ### Collaboration, Monitoring & Productivity
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://www.atlassian.com/software/jira"><img src="./assets/technology-icons/jira.svg" width="48" height="48" alt="Jira" /></a><br />
-      <sub>Jira</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.atlassian.com/software/confluence"><img src="./assets/technology-icons/confluence.svg" width="48" height="48" alt="Confluence" /></a><br />
-      <sub>Confluence</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.zabbix.com/"><img src="./assets/technology-icons/zabbix.svg" width="48" height="48" alt="Zabbix" /></a><br />
-      <sub>Zabbix</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://leetcode.com/"><img src="./assets/technology-icons/leetcode.svg" width="48" height="48" alt="LeetCode" /></a><br />
-      <sub>LeetCode</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="./assets/technology-icons/jira.svg" width="48" height="48" alt="Jira" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/confluence" title="Confluence"><img src="./assets/technology-icons/confluence.svg" width="48" height="48" alt="Confluence" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.zabbix.com/" title="Zabbix"><img src="./assets/technology-icons/zabbix.svg" width="48" height="48" alt="Zabbix" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/" title="LeetCode"><img src="./assets/technology-icons/leetcode.svg" width="48" height="48" alt="LeetCode" /></a>
+</p>
 
 ## 🚀 Featured projects
 
