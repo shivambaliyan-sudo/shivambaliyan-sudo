@@ -44,46 +44,105 @@ I work at the intersection of data, technology, and business. I enjoy turning ra
 ## 🧰 Technology stack
 
 ### Analytics & BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge" alt="Data Modeling" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://powerbi.microsoft.com/"><img src="./assets/technology-icons/powerbi.svg" width="48" height="48" alt="Power BI" /></a><br />
+      <sub>Power BI</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.tableau.com/"><img src="./assets/technology-icons/tableau.svg" width="48" height="48" alt="Tableau" /></a><br />
+      <sub>Tableau</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.microsoft.com/microsoft-365/excel"><img src="./assets/technology-icons/excel.svg" width="48" height="48" alt="Microsoft Excel" /></a><br />
+      <sub>Excel</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="./assets/technology-icons/powerpoint.svg" width="48" height="48" alt="Microsoft PowerPoint" /></a><br />
+      <sub>PowerPoint</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.microsoft.com/microsoft-fabric"><img src="./assets/technology-icons/fabric.svg" width="48" height="48" alt="Microsoft Fabric" /></a><br />
+      <sub>Microsoft Fabric</sub>
+    </td>
+  </tr>
+</table>
+
+<p><strong>Core skills:</strong> SQL · DAX · Power Query · Data Modeling · Data Visualization</p>
 
 ### Programming, Data & Developer Tools
 
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code" /></a>
-  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="48" alt="Jupyter" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a>
-</p>
-
-### Business Intelligence & Analytics
-
-<p align="left">
-  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" /></a>
-  <a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" /></a>
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel" /></a>
-  <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="Microsoft PowerPoint" /></a>
-  <a href="https://www.microsoft.com/microsoft-fabric"><img src="https://cdn.simpleicons.org/microsoftfabric/6B4EFF" width="48" height="48" alt="Microsoft Fabric" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.python.org/"><img src="./assets/technology-icons/python.svg" width="48" height="48" alt="Python" /></a><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.mysql.com/"><img src="./assets/technology-icons/mysql.svg" width="48" height="48" alt="MySQL" /></a><br />
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.postgresql.org/"><img src="./assets/technology-icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a><br />
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.linux.org/"><img src="./assets/technology-icons/linux.svg" width="48" height="48" alt="Linux" /></a><br />
+      <sub>Linux</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://git-scm.com/"><img src="./assets/technology-icons/git.svg" width="48" height="48" alt="Git" /></a><br />
+      <sub>Git</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/"><img src="./assets/technology-icons/github.svg" width="48" height="48" alt="GitHub" /></a><br />
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://code.visualstudio.com/"><img src="./assets/technology-icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" /></a><br />
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://jupyter.org/"><img src="./assets/technology-icons/jupyter.svg" width="48" height="48" alt="Jupyter" /></a><br />
+      <sub>Jupyter</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.docker.com/"><img src="./assets/technology-icons/docker.svg" width="48" height="48" alt="Docker" /></a><br />
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.postman.com/"><img src="./assets/technology-icons/postman.svg" width="48" height="48" alt="Postman" /></a><br />
+      <sub>Postman</sub>
+    </td>
+  </tr>
+</table>
 
 ### Collaboration, Monitoring & Productivity
 
-<p align="left">
-  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" /></a>
-  <a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" alt="Confluence" /></a>
-  <a href="https://www.zabbix.com/"><img src="https://cdn.simpleicons.org/zabbix/D40000" width="48" height="48" alt="Zabbix" /></a>
-  <a href="https://leetcode.com/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.atlassian.com/software/jira"><img src="./assets/technology-icons/jira.svg" width="48" height="48" alt="Jira" /></a><br />
+      <sub>Jira</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.atlassian.com/software/confluence"><img src="./assets/technology-icons/confluence.svg" width="48" height="48" alt="Confluence" /></a><br />
+      <sub>Confluence</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.zabbix.com/"><img src="./assets/technology-icons/zabbix.svg" width="48" height="48" alt="Zabbix" /></a><br />
+      <sub>Zabbix</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://leetcode.com/"><img src="./assets/technology-icons/leetcode.svg" width="48" height="48" alt="LeetCode" /></a><br />
+      <sub>LeetCode</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured projects
 
